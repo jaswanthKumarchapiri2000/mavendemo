@@ -1,4 +1,1 @@
 localhost ansible_user=jsw
-
-[ubuntu]
-172.16.138.211 ansible_user=jaswanth
